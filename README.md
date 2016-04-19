@@ -8,6 +8,7 @@ Todo app with cycle-js, webpack and Babel
 - [ ] Add style
 - [ ] Add Jsx support
 - [ ] Add completed checkbox
+
 #### BUILD
 - [ ] Add test
 - [ ] Add travis-ci
